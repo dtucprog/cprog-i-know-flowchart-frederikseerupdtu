@@ -1,1 +1,0 @@
-You have just been to university and are coming home wondering if you are hungry or not, if you are hungry, input food_items_in_fridge and use them to make food. If you are hungry and there are no food items in the fridge, die of starvation.
